@@ -22,6 +22,16 @@
             ]
           },
           {
+            "group": "AI-Native KB",
+            "pages": [
+              "ai-native-kb/index",
+              "ai-native-kb/problem-statement",
+              "ai-native-kb/vision",
+              "ai-native-kb/features",
+              "ai-native-kb/workflow"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
